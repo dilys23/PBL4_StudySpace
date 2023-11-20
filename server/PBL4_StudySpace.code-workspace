@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../PBL4_StudySpace"
+		},
+		{
+			"path": "../../PBL4_Youtube"
+		},
+		{
+			"path": "D:/WorkSpace/PBL4_document"
+		},
+		{
+			"path": "D:/WorkSpace/PBL4_document/chatcord-master"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PBL4_Youtube"
+	}
+}
